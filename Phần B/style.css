@@ -1,0 +1,12 @@
+.body {
+    background-color: #111111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.change_color {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
